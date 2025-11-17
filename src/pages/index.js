@@ -1,0 +1,8 @@
+export { default as Splash } from './Splash.jsx'
+export { default as Login } from './Login.jsx'
+export { default as Register } from './Register.jsx'
+export { default as Dashboard } from './Dashboard.jsx'
+export { default as Users } from './Users.jsx'
+export { default as Tickets } from './Tickets.jsx'
+export { default as Bookings } from './Bookings.jsx'
+export { default as Flights } from './Flights.jsx'
