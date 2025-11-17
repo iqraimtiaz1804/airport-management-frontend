@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airport Management System (Frontend Only)
 
 A complete **React + Vite** demo implementing the U Devs Frontend-Only Task using **Context API** (no prop drilling) and optional **localStorage** persistence.
@@ -61,3 +62,7 @@ Already configured via `tailwind.config.cjs` and `postcss.config.cjs`. Main CSS 
 - All destructive actions ask for confirmation.
 ```
 
+=======
+# airport-management-frontend
+Airport_management_frontend_task06
+>>>>>>> 76bb0f2e0cc7ba384dd300ac3957a8ece89175f7
